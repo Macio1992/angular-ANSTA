@@ -1,0 +1,53 @@
+<h3>{{person.name}} {{person.lastName}}</h3>
+<p>
+    <span>Family Name:</span> {{person.familyName}}
+</p>
+<p>
+    <span>Date and place of birth</span>
+    {{person.dateOfBirth}}, {{person.placeOfBirth}}
+</p>
+<p>
+    <span>Gender</span> {{person.gender}}
+</p>
+<p>
+    <span>Id number:</span>
+    {{person.idNumber}}
+</p>
+<p>
+    <span>Address</span>
+    {{person.adress.homeInfo.street}}, {{person.adress.homeInfo.homeNr}}, {{person.adress.code}} {{person.adress.town}}
+</p>
+<p>
+    <span>E-mail:</span> {{person.email}}
+</p>
+<p>
+    <span>Telephone:</span> {{person.telephone}}
+</p>
+<p>
+    <span>Pesel:</span> {{person.pesel}}
+</p>
+<p>
+    <span>NIP:</span> {{person.nip}}
+</p>
+<p>
+    <span>Parent's info:</span> <br>
+    <span>Father's name:</span>
+    {{person.fathersName}} <br>
+    <span>Mather's name</span>
+    {{person.mothersInfo.firstName}}
+    <span>Mather's last name</span>
+    {{person.mothersInfo.lastName}}
+</p>
+<p>
+    <span>Education:</span>
+    {{person.education}}
+</p>
+<p>
+    <span>Nationality: </span>
+    {{person.nationality}}
+</p>
+<p>
+    <span>Ethnicity:</span>
+    {{person.ethnicity}}
+</p>
+<button class="btn btn-default" ng-click="back()">Back</button>

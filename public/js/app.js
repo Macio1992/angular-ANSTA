@@ -1,0 +1,1 @@
+angular.module('peopleApp', ['ngRoute', 'appRoutes', 'PeopleCtrl', 'PeopleService', 'ShowPersonController']);
