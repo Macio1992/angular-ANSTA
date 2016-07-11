@@ -3,3 +3,5 @@ App created to store data about people. No database yet. People are stored in pe
 Running this app:
 
 npm install && bower install
+
+npm start

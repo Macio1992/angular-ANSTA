@@ -12,9 +12,9 @@ var people = [
             },
             "town" : "NYC"
         },
-        "dateOfBirth" : "21-04-2009",
+        "dateOfBirth" : "21-04-1976",
         "placeOfBirth": "Washington",
-        "pesel": "34567567123",
+        "pesel": "76042167123",
         "nip" : "5678923423",
         "fathersName": "Douglas",
         "mothersInfo": {
@@ -31,123 +31,123 @@ var people = [
     },
     {
         "id": "2",
-        "name": "name2",
-        "lastName" : "lastName2",
-        "familyName": "familyName2",
+        "name": "Peter",
+        "lastName" : "Parker",
+        "familyName": "Parker",
         "adress": {
-            "code" : "code2",
+            "code" : "45-787",
             "homeInfo" : {
-                "street" : "street2",
-                "homeNr": "homeMr2"
+                "street" : "St. John's",
+                "homeNr": "4"
             },
-            "town" : "town2"
+            "town" : "Madrid"
         },
-        "dateOfBirth" : "02-02-02",
-        "placeOfBirth": "place2",
-        "pesel": "22222222222",
-        "nip" : "2222222222",
-        "fathersName": "fathersName2",
+        "dateOfBirth" : "12-03-1975",
+        "placeOfBirth": "Madrid",
+        "pesel": "750312658365",
+        "nip" : "13794537363",
+        "fathersName": "Diego",
         "mothersInfo": {
-            "firstName" : "motherFirstName2",
-            "lastName" : "mothersLastName2"
+            "firstName" : "Mathilda",
+            "lastName" : "Cruenze"
         },
-        "gender" : "gender2",
-        "idNumber": "idNumber2",
+        "gender" : "male",
+        "idNumber": "GHBFF56",
         "email":"email2@test.pl",
-        "telephone" : "222222222",
-        "education": "education2",
-        "nationality": "nationality2",
-        "ethnicity": "ethnicity2"
+        "telephone" : "543-234-876",
+        "education": "College",
+        "nationality": "Spanish",
+        "ethnicity": "Spanish"
     },
     {
         "id": "3",
-        "name": "name3",
-        "lastName" : "lastName3",
-        "familyName": "familyName3",
+        "name": "Dory",
+        "lastName" : "Newark",
+        "familyName": "Johnys",
         "adress": {
-            "code" : "code3",
+            "code" : "34-567",
             "homeInfo" : {
-                "street" : "street3",
-                "homeNr": "homeMr3"
+                "street" : "Wonderful",
+                "homeNr": "45"
             },
-            "town" : "town3"
+            "town" : "London"
         },
-        "dateOfBirth" : "03-03-03",
-        "placeOfBirth": "place3",
-        "pesel": "33333333333",
-        "nip" : "3333333333",
-        "fathersName": "fathersName3",
+        "dateOfBirth" : "01-03-1981",
+        "placeOfBirth": "London",
+        "pesel": "81030157823",
+        "nip" : "8767123456",
+        "fathersName": "Johnys",
         "mothersInfo": {
-            "firstName" : "motherFirstName3",
-            "lastName" : "mothersLastName3"
+            "firstName" : "Ruperta",
+            "lastName" : "Grind"
         },
-        "gender" : "gender3",
-        "idNumber": "idNumber3",
+        "gender" : "female",
+        "idNumber": "FGH435",
         "email":"email3@test.pl",
-        "telephone" : "333333333",
-        "education": "education3",
-        "nationality": "nationality3",
-        "ethnicity": "ethnicity3"
+        "telephone" : "345-123-567",
+        "education": "College",
+        "nationality": "English",
+        "ethnicity": "English"
     },
     {
         "id": "4",
-        "name": "name4",
-        "lastName" : "lastName4",
-        "familyName": "familyName4",
+        "name": "Bogdan",
+        "lastName" : "Łapicki",
+        "familyName": "Łapicki",
         "adress": {
-            "code" : "code4",
+            "code" : "23-456",
             "homeInfo" : {
-                "street" : "street4",
-                "homeNr": "homeMr4"
+                "street" : "Uchwalna",
+                "homeNr": "3"
             },
-            "town" : "town4"
+            "town" : "Katowice"
         },
-        "dateOfBirth" : "04-04-04",
-        "placeOfBirth": "place4",
-        "pesel": "44444444444",
-        "nip" : "4444444444",
-        "fathersName": "fathersName4",
+        "dateOfBirth" : "16-12-1994",
+        "placeOfBirth": "Warsaw",
+        "pesel": "9412165652345",
+        "nip" : "764345678",
+        "fathersName": "Łapicki",
         "mothersInfo": {
-            "firstName" : "motherFirstName4",
-            "lastName" : "mothersLastName4"
+            "firstName" : "Antonina",
+            "lastName" : "Morska"
         },
-        "gender" : "gender4",
-        "idNumber": "idNumber4",
+        "gender" : "female",
+        "idNumber": "FGTY1278",
         "email":"email4@test.pl",
-        "telephone" : "444444444",
-        "education": "education4",
-        "nationality": "nationality4",
-        "ethnicity": "ethnicity4"
+        "telephone" : "123-908-345",
+        "education": "College",
+        "nationality": "Polish",
+        "ethnicity": "Polish"
     },
     {
         "id": "5",
-        "name": "name5",
-        "lastName" : "lastName5",
-        "familyName": "familyName5",
+        "name": "Chris",
+        "lastName" : "Famous",
+        "familyName": "Famous",
         "adress": {
-            "code" : "code5",
+            "code" : "34-234",
             "homeInfo" : {
-                "street" : "street5",
-                "homeNr": "homeMr5"
+                "street" : "Beautiful",
+                "homeNr": "1"
             },
-            "town" : "town5"
+            "town" : "Sydney"
         },
-        "dateOfBirth" : "05-05-05",
-        "placeOfBirth": "place5",
-        "pesel": "55555555555",
-        "nip" : "5555555555",
-        "fathersName": "fathersName5",
+        "dateOfBirth" : "25-05-1967",
+        "placeOfBirth": "Canberra",
+        "pesel": "67052578654",
+        "nip" : "3451267890",
+        "fathersName": "Famous",
         "mothersInfo": {
-            "firstName" : "motherFirstName5",
-            "lastName" : "mothersLastName5"
+            "firstName" : "Dorothy",
+            "lastName" : "Chance"
         },
-        "gender" : "gender5",
-        "idNumber": "idNumber5",
+        "gender" : "male",
+        "idNumber": "VGH6789",
         "email":"email5@test.pl",
-        "telephone" : "555555555",
-        "education": "education5",
-        "nationality": "nationality5",
-        "ethnicity": "ethnicity5"
+        "telephone" : "345-345-345",
+        "education": "High School",
+        "nationality": "Australian",
+        "ethnicity": "Australian"
     }
 ]
 
